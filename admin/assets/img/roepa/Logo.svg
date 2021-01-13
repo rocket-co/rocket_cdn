@@ -1,49 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 143 32" style="enable-background:new 0 0 143 32;" xml:space="preserve">
 <style type="text/css">
-	.st0{enable-background:new    ;}
-	.st1{fill:#004F89;}
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#002E6D;}
 </style>
-<g id="Rechteck_1_1_" class="st0">
-	<g id="Rechteck_1">
+<g>
+	<g>
 		<g>
-			<path class="st1" d="M32.3,18.1c6.5,0,8.9-14.1-3.9-14.1c-0.8,0-7.3,0-7.3,0v24.4h5.3V18.2l6.3,10.3h6
-				C38.8,28.4,32.2,18.1,32.3,18.1z M29.4,14.7c0.1,0-3,0-3,0v-6c0,0,3,0,3,0C33.6,8.7,33.1,14.7,29.4,14.7z"/>
+			<g>
+				<g>
+					<defs>
+						<path id="SVGID_1_" d="M27.9,18.4c-0.1,0,7.1,11.2,7.1,11.2h-6.5l-6.9-11.2v11.2h-5.8V3.2c0,0,7,0,7.9,0
+							C37.5,3.2,34.9,18.4,27.9,18.4L27.9,18.4z M24.8,8.2c0,0-3.2,0-3.2,0v6.5c0,0,3.3,0,3.2,0C28.8,14.7,29.3,8.2,24.8,8.2
+							L24.8,8.2z"/>
+					</defs>
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;fill-rule:evenodd;clip-rule:evenodd;fill:#002E6D;"/>
+					<clipPath id="SVGID_2_">
+						<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+					</clipPath>
+				</g>
+				<polygon class="st0" points="67.8,3.2 83.8,3.2 83.8,8.2 74.4,8.2 74.4,14.7 83.8,14.7 83.8,19.3 74.4,19.3 74.4,24 83.8,24 
+					83.8,29.6 67.8,29.6 67.8,3.2 				"/>
+				<g>
+					<defs>
+						<path id="SVGID_3_" d="M101.7,19.3c0,0-6.5,0-6.5,0l0,10.3h-5.8V3.2h5.8c0,0,1.5,0,1.8,0C113.3,3.2,107,19.3,101.7,19.3
+							L101.7,19.3z M99,8.2c-2,0-3.8,0-3.8,0v6.5c0,0,2.9,0,3.8,0C102.5,14.7,102.7,8.2,99,8.2L99,8.2z"/>
+					</defs>
+					<use xlink:href="#SVGID_3_"  style="overflow:visible;fill-rule:evenodd;clip-rule:evenodd;fill:#002E6D;"/>
+					<clipPath id="SVGID_4_">
+						<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+					</clipPath>
+				</g>
+				<g>
+					<defs>
+						<path id="SVGID_5_" d="M126.4,29.6l-2-5.6h-11.2l-2,5.6h-5.6l10.3-26.5h5.7l10.5,26.5H126.4L126.4,29.6z M118.8,8.2l-3.3,11.2
+							h6.6L118.8,8.2L118.8,8.2z"/>
+					</defs>
+					<use xlink:href="#SVGID_5_"  style="overflow:visible;fill-rule:evenodd;clip-rule:evenodd;fill:#002E6D;"/>
+					<clipPath id="SVGID_6_">
+						<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+					</clipPath>
+				</g>
+			</g>
 		</g>
 	</g>
-</g>
-<g id="Rechteck_2_1_" class="st0">
-	<g id="Rechteck_2_4_">
-		<g>
-			<polygon class="st1" points="83.7,8.7 83.7,4.1 69,4.1 69,28.4 83.7,28.4 83.7,23.3 75.1,23.3 75.1,19 83.7,19 83.7,14.7 
-				75.1,14.7 75.1,8.7 			"/>
-		</g>
-	</g>
-</g>
-<g id="Rechteck_3_1_" class="st0">
-	<g id="Rechteck_3">
-		<g>
-			<path class="st1" d="M95.9,4.1c-0.3,0-1.7,0-1.7,0h-5.3v24.4h5.3l0-9.5c0,0,6,0,6,0C105.1,19,110.8,4.1,95.9,4.1z M97.7,14.6
-				c-0.8,0-3.5,0-3.5,0v-6c0,0,1.6,0,3.5,0C101.1,8.7,100.9,14.7,97.7,14.6z"/>
-		</g>
-	</g>
-</g>
-<g id="Rechteck_4_1_" class="st0">
-	<g id="Rechteck_4_4_">
-		<g>
-			<path class="st1" d="M118.5,4.1h-5.2l-9.5,24.4h5.2l1.8-5.2h10.3l1.8,5.2h5.3L118.5,4.1z M112.9,19l3.1-10.3l3,10.3H112.9z"/>
-		</g>
-	</g>
-</g>
-<g id="Ellipse_1_1_" class="st0">
-	<g id="Ellipse_1">
-		<g>
-			<path class="st1" d="M40.1,14.8h5.1c0.7-2.6,2.8-4.7,5.6-5.4V4.2C45.2,5.1,40.8,9.4,40.1,14.8z M60.2,14.8h5.8
-				c-0.7-5.5-5.3-9.9-11-10.7v5.4C57.5,10.2,59.5,12.3,60.2,14.8z M54.9,23.5v4.9c5.5-0.7,9.8-4.5,10.9-9.6H60
-				C59.2,21.1,57.3,22.9,54.9,23.5z M45.4,18.9h-5.1c1.1,4.9,5.2,8.7,10.5,9.5v-4.8C48.2,23,46.2,21.2,45.4,18.9z"/>
-		</g>
+	<g>
+		<path class="st0" d="M57.9,14.2h5.7C62.7,8.5,58.2,4,52.5,3.1v5.7C55.1,9.6,57.1,11.6,57.9,14.2z"/>
+		<path class="st0" d="M52.5,24v5.7c5.7-0.9,10.1-5.4,11.1-11.1h-5.7C57.1,21.2,55.1,23.2,52.5,24z"/>
+		<path class="st0" d="M48.1,8.8V3.1C42.4,4,37.9,8.5,37,14.2h5.7C43.5,11.6,45.5,9.6,48.1,8.8z"/>
+		<path class="st0" d="M42.7,18.6H37c0.9,5.7,5.4,10.1,11.1,11.1V24C45.5,23.2,43.5,21.2,42.7,18.6z"/>
 	</g>
 </g>
 </svg>
